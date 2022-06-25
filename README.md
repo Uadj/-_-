@@ -1,4 +1,3 @@
-#Backend
 Backend 개발자가 되기 위해 해왔던 과정들을 모아둔 저장소입니다
 ## For Spring
 
